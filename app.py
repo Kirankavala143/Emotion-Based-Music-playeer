@@ -80,4 +80,4 @@ if __name__ == "__main__":
     
 # venv\Scripts\activate
 # python app.py
-
+#run the above command to start the Flask server. Then, open your web browser and go to http:// 
